@@ -38,7 +38,7 @@ I'm passionate about developing practical technology solutions that help individ
 
 - **Website:** https://samgrotech-website.vercel.app/
 - **Personal Profile:** https://samgrotech-website.vercel.app/samuel-growther
-- **LinkedIn:** https://www.linkedin.com/in/samuel-growther-0b0281402
+- **LinkedIn:** https://www.linkedin.com/in/samuel-growther
 - **GitHub:** https://github.com/Coolrulersamgro
 
 ---
