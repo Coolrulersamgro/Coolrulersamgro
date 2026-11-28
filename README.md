@@ -1,51 +1,46 @@
-# Hi, I'm Samuel Growther 👋
+# Samuel Growther
 
-### IT Professional | Founder of SamgroTech Solutions
+**Founder of SamgroTech Solutions | Information Technology Professional | Software Developer**
 
-Welcome to my GitHub profile!
+Welcome to the official GitHub profile of **Samuel Growther**, a technology professional and entrepreneur based in Kenya.
 
-I'm **Samuel Growther**, an Information Technology professional, technology enthusiast and entrepreneur based in Kenya.
+Samuel is a Diploma in Information Technology graduate of **Masinde Muliro University of Science and Technology (MMUST)** and is currently pursuing a **Bachelor's Degree in Information Technology**. His interests include software development, web technologies, networking, IT support, information systems and practical digital solutions for businesses.
 
-I'm a Diploma in Information Technology graduate from **Masinde Muliro University of Science and Technology (MMUST)** and currently pursuing a Bachelor's Degree in Information Technology.
+He is the founder of **SamgroTech Solutions**, a technology initiative focused on building useful digital products and providing technology solutions.
 
-I'm passionate about developing practical technology solutions that help individuals and businesses solve real-world problems.
+## About Samuel
 
-## 🚀 About Me
+- Founder: **SamgroTech Solutions**
+- Education: Diploma in Information Technology, MMUST
+- Current studies: Bachelor's Degree in Information Technology
+- Experience: IT industrial attachment at the Kenya Revenue Authority (KRA)
+- Location: Kenya
 
-- Founder of **SamgroTech Solutions**
-- IT Professional and Software Development Enthusiast
-- Interested in Web Development, Networking and Cybersecurity
-- Practical IT experience through industrial attachment at Kenya Revenue Authority (KRA)
-- Passionate about innovation and digital transformation
+## Projects
 
-## 💻 Technical Interests
+| Project | Description |
+|---|---|
+| [SamgroTech Solutions](https://samgrotech-website.vercel.app/) | Official website for SamgroTech Solutions |
+| [Samuel Growther – Professional Profile](https://samgrotech-website.vercel.app/samuel-growther) | Biography, education, experience and professional projects |
+| [SamgroTech POS](https://github.com/Coolrulersamgro/samgrotech-pos) | Point-of-sale system for business operations |
+| [Dallas](https://github.com/Coolrulersamgro/dallas) | Business finance and accounting application |
+| [Samgro Binary](https://github.com/Coolrulersamgro/saMGRO-binary) | Software project |
 
-- Web Design and Development
-- Software and Information Systems Development
-- Computer Networking and IT Support
-- Cybersecurity and Security Monitoring
-- Business Technology Solutions
-- Data Collection and Information Management
+## Official Links
 
-## 🛠️ Featured Projects
+- Website: https://samgrotech-website.vercel.app/
+- Professional profile: https://samgrotech-website.vercel.app/samuel-growther
+- GitHub: https://github.com/Coolrulersamgro
+- LinkedIn: https://www.linkedin.com/in/samuel-growther
 
-- **[SamgroTech Solutions](https://samgrotech-website.vercel.app/)** – Official technology services website and company profile.
-- **[Samuel Growther – Biography](https://samgrotech-website.vercel.app/samuel-growther)** – My professional biography, education, experience and founder journey.
-- **[SamgroTech POS](https://samgrotech-pos.vercel.app/)** – Business point-of-sale and management system.
-- **[SamgroTech POS – Source Code](https://github.com/Coolrulersamgro/samgrotech-pos)** – Repository for the POS project.
-- **Dallas** – Business finance and accounting application.
-- **SENTINEL** – Cybersecurity monitoring and threat intelligence dashboard.
-- **Paid Wi-Fi Hotspot System** – Internet access management and payment solution.
+## Areas of Interest
 
-## 🌐 Connect With Me
-
-- **Website:** https://samgrotech-website.vercel.app/
-- **Personal Profile:** https://samgrotech-website.vercel.app/samuel-growther
-- **LinkedIn:** https://www.linkedin.com/in/samuel-growther
-- **GitHub:** https://github.com/Coolrulersamgro
+- Software and information systems development
+- Web design and development
+- Computer networking and IT support
+- Cybersecurity
+- Business technology and digital transformation
 
 ---
 
-*Technology that moves your business forward.*
-
-© Samuel Growther | SamgroTech Solutions
+**Samuel Growther** is the founder of **SamgroTech Solutions**. These links are provided to help visitors find the same professional identity across his website and developer portfolio.
